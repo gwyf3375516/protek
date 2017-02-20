@@ -1,0 +1,2 @@
+a = 'protek'
+print a
